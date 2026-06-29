@@ -2,7 +2,7 @@
 
 | Name | Role |
 |------|------|
-| Tejaswini C | GitHub Repository, README, Contributors |
+| Tejaswini C | GitHub Repository, README.md, CONTRIBUTORS.md |
 | Diya Sajan CN| Home Page |
 | Rachana C | Login & Register Page |
 | Vaishnavi | Post Item Page |
