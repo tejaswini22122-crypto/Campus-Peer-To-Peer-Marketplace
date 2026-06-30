@@ -18,13 +18,13 @@ A website where students can buy and sell used items within the campus.
 - GitHub
 
 ## Team Members
-- Member 1
-- Member 2
-- Member 3
-- Member 4
-- Member 5
-- Member 6
-- Member 7
+- Tejaswini C
+- Roopashree D
+- Rachana C
+- Ganga S Murnal
+- Diya Sajan CN
+- Vaishnavi
+- Sahana S
 
 ## How to Run
 1. Download or clone the repository.
