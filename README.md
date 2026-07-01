@@ -31,8 +31,6 @@ Campus Peer-to-Peer Marketplace is a web-based platform that allows students to 
 - Rachana C
 - Ganga S Murnal
 - Diya Sajan CN
-- Vaishnavi
-- Sahana S
 
 ## Future Enhancements
 - Search and Filter Options
