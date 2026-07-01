@@ -1,21 +1,29 @@
 # Campus Peer-to-Peer Marketplace
 
 ## Project Description
-A website where students can buy and sell used items within the campus.
+Campus Peer-to-Peer Marketplace is a web-based platform that allows students to buy, sell, and exchange used items within their campus community. The platform helps students save money, reduce waste, and connect with fellow students.
 
 ## Features
 - Home Page
-- Login & Register
-- Browse Listings
-- Post Item
+- User Login & Registration
+- Browse Available Listings
+- Post New Items
 - Contact Page
+- Student-to-Student Communication
+- Easy Navigation Interface
 
 ## Technologies Used
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Git
 - GitHub
+
+## Benefits
+- Reduces waste by promoting reuse of items
+- Helps students save money
+- Encourages sustainable practices
+- Creates a trusted campus marketplace
 
 ## Team Members
 - Tejaswini C
@@ -26,8 +34,15 @@ A website where students can buy and sell used items within the campus.
 - Vaishnavi
 - Sahana S
 
+## Future Enhancements
+- Search and Filter Options
+- User Profile Management
+- Product Categories
+- Chat System for Buyers and Sellers
+- Wishlist Feature
 
 ## How to Run
 1. Download or clone the repository.
 2. Open the project in VS Code.
 3. Open `index.html` using Live Server.
+4. Explore
